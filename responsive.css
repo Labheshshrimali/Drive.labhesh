@@ -1,0 +1,61 @@
+@media only screen and (max-width:620px){
+    .a h1{
+        font-size: 40px !important;
+
+    }
+    .a p{
+        font-size: 20px !important;
+    }
+    .cc{
+        gap: 10px !important;
+    }
+    .b button{
+        padding: 9px 18px !important;
+        margin: 8px !important;
+    }
+    
+}
+
+@media only screen and (max-width:820px){
+    .a h1{
+        font-size: 50px !important;
+
+    }
+    .a p{
+        font-size: 25px !important;
+    }
+    .cc{
+        gap: 10px !important;
+    }
+    .b button{
+        padding: 9px 18px !important;
+        margin: 8px !important;
+    }
+    
+}
+
+@media only screen and (max-width:1024px){
+    .a h1{
+        font-size: 50px !important;
+
+    }
+    .a p{
+        font-size: 25px !important;
+    }
+    .cc{
+        gap: 30px !important;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        width: 50%;
+    }
+    .b{
+        width: 40% !important;
+
+    }
+    .b button{
+        padding: 9px 18px !important;
+        margin: 8px !important;
+    }
+    
+}
